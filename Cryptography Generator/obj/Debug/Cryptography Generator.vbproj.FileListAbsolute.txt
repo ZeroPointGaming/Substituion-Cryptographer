@@ -1,0 +1,11 @@
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\Cryptography Generator\Cryptography Generator\bin\Debug\Cryptography Generator.exe.config
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\Cryptography Generator\Cryptography Generator\bin\Debug\Cryptography Generator.exe
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\Cryptography Generator\Cryptography Generator\bin\Debug\Cryptography Generator.pdb
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\Cryptography Generator\Cryptography Generator\bin\Debug\Cryptography Generator.xml
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\Cryptography Generator\Cryptography Generator\obj\Debug\Cryptography Generator.vbprojResolveAssemblyReference.cache
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\Cryptography Generator\Cryptography Generator\obj\Debug\Cryptography_Generator.Form1.resources
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\Cryptography Generator\Cryptography Generator\obj\Debug\Cryptography_Generator.Resources.resources
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\Cryptography Generator\Cryptography Generator\obj\Debug\Cryptography Generator.vbproj.GenerateResource.Cache
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\Cryptography Generator\Cryptography Generator\obj\Debug\Cryptography Generator.exe
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\Cryptography Generator\Cryptography Generator\obj\Debug\Cryptography Generator.xml
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\Cryptography Generator\Cryptography Generator\obj\Debug\Cryptography Generator.pdb
